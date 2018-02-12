@@ -12,7 +12,7 @@ This repository contains a very simple computer vision dataset for classificatio
 <img src = 'examples/4.png' height = '45px'>
 </p>
 <p align = 'center'>
-examples of: left, right, up and up images.
+examples of: right, left, up and up images.
 </p>
 
 ### Usage
