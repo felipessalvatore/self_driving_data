@@ -1,9 +1,9 @@
-# self_driving_data
+# Self driving data
 
 A simple database for image classification using images from a robot car.
 
 ## Documentation
-This repository contains a very simple computer vision dataset for classification. It consists of images like 
+This repository was created by [Paula Moraes](https://github.com/paulaksm) and [Felipe Salvatore](https://github.com/felipessalvatore). You can find here a very simple computer vision dataset for classification. It consists of images like 
 
 <p align = 'center'>
 <img src = 'examples/1.png' height = '45px'>
@@ -36,4 +36,4 @@ The data is split into three parts: 56,172 data points of training data (train_d
 ```
 
 ### Related Work
-- Project M (https://medium.com/@project_m)
+- [Self drives me crazy](https://medium.com/@project_m)
