@@ -36,4 +36,4 @@ The data is split into three parts: 56,172 data points of training data (train_d
 ```
 
 ### Related Work
-- [Self drives me crazy](https://medium.com/@project_m)
+- [Self drives me crazy](https://medium.com/@project_m/self-drives-me-crazy-from-0-to-self-driving-car-in-150-hours-bf4f68d50d8a)
