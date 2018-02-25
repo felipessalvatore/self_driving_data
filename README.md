@@ -1,4 +1,4 @@
-# Self driving data
+# Self-Driving Data
 
 A simple database for image classification using images from a robot car.
 
