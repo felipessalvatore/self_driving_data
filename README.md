@@ -27,7 +27,7 @@ The data is split into three parts: 56,172 data points of training data (train_d
 ### Citation
 ```
   @misc{self_driving_data2018,
-    author = {Paula Moraes, Felipe Salvatore},
+    author = {Paula Moraes and Felipe Salvatore},
     title = {Self Driving Data},
     year = {2018},
     howpublished = {\url{https://github.com/felipessalvatore/self_driving_data/}},
